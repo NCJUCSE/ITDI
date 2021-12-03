@@ -1,4 +1,5 @@
-# (Indic Texts in Digital Images (ITDI)
+# Indic Texts in Digital Images (ITDI)
+
 This dataset comprises of Bangla, English and Hindi words cropped from digital images of both Natural Scene Images (NSI) and Born-digital Images (BDI) types. The categorical composition of this dataset is given below:
 
 Summary of the ITDI dataset:

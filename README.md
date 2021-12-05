@@ -15,11 +15,4 @@ https://drive.google.com/drive/folders/15aTGisYLIbMIHEgkatAcNcylh8cTDLnR?usp=sha
 
 This dataset can be used for research/academic purpose only. While using this dataset, citing the following paper is expected:
 
-Neelotpal Chakraborty, Ayatullah Faruk Mollah, Subhadip Basu and Ram Sarkar, "An Hour-glass CNN for Language Identification of Indic Texts in Digital Images", Accepted in 6th IAPR International Conference on COMPUTER VISION & IMAGE PROCESSING.
-
-Other related papers recommended for citation are as follows:
-
-1. Jajoo, M., Chakraborty, N., Mollah, A. F., Basu, S., & Sarkar, R. (2019). Script identification from camera-captured multi-script scene text components. In Recent developments in machine learning and data analytics (pp. 159-166). Springer, Singapore.
-2. Saha, S., Chakraborty, N., Kundu, S., Paul, S., Mollah, A. F., Basu, S., & Sarkar, R. (2020). Multi-lingual scene text detection and language identification. Pattern Recognition Letters, 138, 16-22.
-3. Chakraborty, N., Kundu, S., Paul, S., Mollah, A. F., Basu, S., & Sarkar, R. (2021). Language identification from multi-lingual scene text images: a CNN based classifier ensemble approach. Journal of Ambient Intelligence and Humanized Computing, 12(7), 7997-8008.
-4. Chakraborty, N., Chatterjee, A., Singh, P. K., Mollah, A. F., & Sarkar, R. (2021). Application of daisy descriptor for language identification in the wild. Multimedia Tools and Applications, 80(1), 323-344.
+Neelotpal Chakraborty, Ayatullah Faruk Mollah, Subhadip Basu and Ram Sarkar, "An Hour-glass CNN for Language Identification of Indic Texts in Digital Images", Accepted in 6th IAPR International Conference on COMPUTER VISION & IMAGE PROCESSING (CVIP-2021).

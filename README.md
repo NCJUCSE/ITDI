@@ -21,7 +21,7 @@ Chakraborty, N., Mollah, A. F., Basu, S., & Sarkar, R. (2022). An Hour-Glass CNN
 
 Other related papers recommended for citation, are as follows:
 
-1. Jajoo, M., Chakraborty, N., Mollah, A. F., Basu, S., & Sarkar, R. (2019). Script identification from camera-captured multi-script scene text components. In Recent developments in machine learning and data analytics (pp. 159-166). Springer, Singapore.
+1. Jajoo, M., Chakraborty, N., Mollah, A. F., Basu, S., & Sarkar, R. (2019). Script identification from camera-captured multi-script scene text components. In Recent developments in machine learning and data analytics (pp. 159-166). Springer, Singapore. DOI: https://doi.org/10.1007/978-981-13-1280-9_16
 2. Saha, S., Chakraborty, N., Kundu, S., Paul, S., Mollah, A. F., Basu, S., & Sarkar, R. (2020). Multi-lingual scene text detection and language identification. Pattern Recognition Letters, 138, 16-22. DOI: https://doi.org/10.1016/j.patrec.2020.06.024
 3. Chakraborty, N., Kundu, S., Paul, S., Mollah, A. F., Basu, S., & Sarkar, R. (2021). Language identification from multi-lingual scene text images: a CNN based classifier ensemble approach. Journal of Ambient Intelligence and Humanized Computing, 12(7), 7997-8008. DOI: https://doi.org/10.1007/s12652-020-02528-4
 4. Chakraborty, N., Chatterjee, A., Singh, P. K., Mollah, A. F., & Sarkar, R. (2021). Application of daisy descriptor for language identification in the wild. Multimedia Tools and Applications, 80(1), 323-344. DOI: https://doi.org/10.1007/s11042-020-09728-2

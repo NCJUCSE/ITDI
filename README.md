@@ -17,7 +17,7 @@ This dataset can be used for research/academic purpose only.
 
 While using this dataset, citing the following paper is expected:
 
-Neelotpal Chakraborty, Ayatullah Faruk Mollah, Subhadip Basu and Ram Sarkar, "An Hour-glass CNN for Language Identification of Indic Texts in Digital Images", Accepted in 6th IAPR International Conference on COMPUTER VISION & IMAGE PROCESSING (CVIP-2021).
+Chakraborty, N., Mollah, A. F., Basu, S., & Sarkar, R. (2022). An Hour-Glass CNN for Language Identification of Indic Texts in Digital Images. In International Conference on Computer Vision and Image Processing (pp. 26-35). Springer, Cham. DOI: https://doi.org/10.1007/978-3-031-11349-9_3
 
 Other related papers recommended for citation, are as follows:
 

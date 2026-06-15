@@ -12,6 +12,10 @@ The link to full dataset is given below:
 
 https://drive.google.com/drive/folders/15aTGisYLIbMIHEgkatAcNcylh8cTDLnR?usp=sharing
 
+The link to the word-level Text Recognition of ITDI images is given below:
+
+https://docs.google.com/spreadsheets/d/1Ojhhda-nbLhsKl5UIZZts5s-zjnOCHjz/edit?gid=544262377#gid=544262377
+
 This dataset can be used for research/academic purpose only.
 
 While using this dataset, citing the following paper is expected:
